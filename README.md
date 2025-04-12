@@ -19,7 +19,6 @@ We have built this project using the following technologies:
 
 - Frontend: React.js / HTML / CSS / JavaScript
 - Backend: Python / Flask / FastAPI / Node.js
-- Database: MongoDB / MySQL / PostgreSQL / Firebase
 - AI/ML Models: OpenCV / TensorFlow / PyTorch / YOLO
 - Other Tools & Libraries: Pandas / NumPy / Matplotlib / Sci-kit Learn
 
